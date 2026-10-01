@@ -1,6 +1,121 @@
 {
   "schemaVersion": 1,
   "platform": "azahar",
-  "generatedAt": "2026-10-01T00:00:00Z",
-  "entries": []
+  "generatedAt": "2026-10-01T12:21:52Z",
+  "entries": [
+    {
+      "id": "poketex-3ds-ultra-sun-moon",
+      "name": "Pokemon Ultra Sun & Ultra Moon HD",
+      "gameTitle": "Pokemon Ultra Sun / Ultra Moon",
+      "titleIds": [
+        "00040000001B5000",
+        "00040000001B5100"
+      ],
+      "version": "2023-05-24",
+      "authors": [
+        "Volya"
+      ],
+      "credits": "Archived by Gray-Rice/PokeTex-3DS",
+      "description": "HD texture pack for Pokemon Ultra Sun and Ultra Moon.",
+      "downloadUrl": "https://github.com/Gray-Rice/PokeTex-3DS/releases",
+      "sourceUrl": "https://github.com/Gray-Rice/PokeTex-3DS",
+      "license": "No license (link-only)",
+      "distribution": "link-only",
+      "updatedAt": "2023-05-24T00:00:00Z"
+    },
+    {
+      "id": "poketex-3ds-omega-ruby-alpha-sapphire",
+      "name": "Pokemon Omega Ruby & Alpha Sapphire HD",
+      "gameTitle": "Pokemon Omega Ruby / Alpha Sapphire",
+      "titleIds": [
+        "000400000011C400",
+        "000400000011C500"
+      ],
+      "version": "2023-09-20",
+      "authors": [
+        "Donel"
+      ],
+      "credits": "Archived by Gray-Rice/PokeTex-3DS",
+      "description": "HD texture pack for Pokemon Omega Ruby and Alpha Sapphire.",
+      "downloadUrl": "https://github.com/Gray-Rice/PokeTex-3DS/releases",
+      "sourceUrl": "https://github.com/Gray-Rice/PokeTex-3DS",
+      "license": "No license (link-only)",
+      "distribution": "link-only",
+      "updatedAt": "2023-09-20T00:00:00Z"
+    },
+    {
+      "id": "poketex-3ds-x-y",
+      "name": "Pokemon X & Y HD (WIP)",
+      "gameTitle": "Pokemon X / Pokemon Y",
+      "titleIds": [
+        "0004000000055D00",
+        "0004000000055E00"
+      ],
+      "version": "2023",
+      "authors": [
+        "Ullr8",
+        "Gray-Rice"
+      ],
+      "credits": "Based on the Pokemon Y Resurrection project.",
+      "description": "Work-in-progress HD texture pack for Pokemon X and Y.",
+      "downloadUrl": "https://github.com/Gray-Rice/PokeTex-3DS/releases",
+      "sourceUrl": "https://github.com/Gray-Rice/PokeTex-3DS",
+      "license": "No license (link-only)",
+      "distribution": "link-only",
+      "updatedAt": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "mm3dhd",
+      "name": "Majora's Mask 3D HD",
+      "gameTitle": "The Legend of Zelda: Majora's Mask 3D",
+      "titleIds": [
+        "0004000000125500",
+        "0004000000125600"
+      ],
+      "version": "1.0",
+      "authors": [
+        "DeathWrench"
+      ],
+      "description": "HD texture pack for The Legend of Zelda: Majora's Mask 3D.",
+      "downloadUrl": "https://github.com/DeathWrench/MM3DHD/releases",
+      "sourceUrl": "https://github.com/DeathWrench/MM3DHD",
+      "license": "No license (link-only)",
+      "distribution": "link-only",
+      "updatedAt": "2019-08-27T16:32:25Z"
+    },
+    {
+      "id": "linuxkafe-3ds-upscaled",
+      "name": "Upscaled 3DS textures (Steam Deck)",
+      "gameTitle": "Multiple titles",
+      "titleIds": [],
+      "version": "2023-10-09",
+      "authors": [
+        "linuxkafe"
+      ],
+      "description": "Textures upscaled to 720p with Upscayl for use with Citra and Azahar.",
+      "downloadUrl": "https://github.com/upmferraz/3DS",
+      "sourceUrl": "https://github.com/upmferraz/3DS",
+      "license": "No license (link-only)",
+      "distribution": "link-only",
+      "updatedAt": "2023-10-09T09:10:21Z"
+    },
+    {
+      "id": "nlppctr",
+      "name": "Love Plus + texture mod",
+      "gameTitle": "Love Plus +",
+      "titleIds": [
+        "00040000000F4E00"
+      ],
+      "version": "1.0",
+      "authors": [
+        "LovePlusProject"
+      ],
+      "description": "Translation and texture mod for Love Plus + (title id 00040000000F4E00).",
+      "downloadUrl": "https://github.com/LovePlusProject/NLPPCTR",
+      "sourceUrl": "https://github.com/LovePlusProject/NLPPCTR",
+      "license": "No license (link-only)",
+      "distribution": "link-only",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
 }
